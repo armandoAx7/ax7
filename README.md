@@ -1,8 +1,7 @@
 # ax7
 proyectos
-#1
-#2
-#3
-#4
-#5
-#6
+-##este es un encabezado h2
+este es otro encabezado
++*cursivas*
++**negritas**
+======
